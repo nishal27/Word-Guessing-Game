@@ -1,0 +1,16 @@
+{
+  "name": "word-guessing-game",
+  "version": "1.0.0",
+  "description": "A server-side word guessing game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nishal Save",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0"
+  }
+}
